@@ -18,6 +18,7 @@ public class Ej1Clases {
         System.out.println("Primer cambio rama master");
         System.out.println("Segundo cambio rama master");
         System.out.println("Primer cambio sobre rama VO");
+        System.out.println("Cambio rama master");
     }
     
 }
